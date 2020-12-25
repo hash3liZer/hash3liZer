@@ -19,5 +19,6 @@
 
 <h2 align="center"> 📈 Quick Stats </h2> 
 
-![hash3liZer's github stats](https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash3liZer&hide=css,php&theme=dark)
+<center>
+  <img syle="display: block: margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=merko" alt="My stats">
+</center>
