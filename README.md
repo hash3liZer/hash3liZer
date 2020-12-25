@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/hash3liZer%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
 
-A Full Stack Developer & Python Programmer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
+<p align="center">
+   A Full Stack Developer & Python Programmer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
+</p>
 
 <ul>
   <li><b>Discord: </b> <a href="#" target="_blank">hash3liZer#5786</a></li>
