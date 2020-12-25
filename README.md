@@ -22,7 +22,7 @@
 </ul>
 
 ```javascript
-(() => {
+(()=>{
   console.log(
     "Oops, you are once again pwned!"
   );
