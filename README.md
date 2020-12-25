@@ -29,6 +29,6 @@ A Full Stack Developer & Python Programmer who loves to break, build and code an
 
 <h2 align="center"> 📈 Quick Stats </h2> 
 
-<center>
-  <img width="100%" style="display: block: margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=merko" alt="My stats">
-</center>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=merko" alt="My stats">
+</p>
