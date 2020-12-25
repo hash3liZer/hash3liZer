@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi, its me </h2> 
+<h2 align="center"> 👋 Hi, its <a href="//twitter.com/hash3liZer">Shameer</a> </h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/hash3liZer%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
 
+A Full Stack Developer & Python Programmer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
+
 <ul>
   <li><b>Discord: </b> <a href="#" target="_blank">hash3liZer#5786</a></li>
   <li><b>HackTheBox: </b> <a href="https://www.hackthebox.eu/profile/313998">hash3liZer</a></li>
@@ -17,8 +19,16 @@
   <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/hash3lizer/" target="_blank">https://www.linkedin.com/in/hash3lizer/</a></li>
 </ul>
 
+```javascript
+(function(){
+  console.log(
+    "Oops, you are once again pwned!"
+  );
+})();
+```
+
 <h2 align="center"> 📈 Quick Stats </h2> 
 
 <center>
-  <img syle="display: block: margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=merko" alt="My stats">
+  <img width="100%" style="display: block: margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=hash3liZer&show_icons=true&theme=merko" alt="My stats">
 </center>
