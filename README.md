@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   A Full Stack Developer & Python Programmer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
+   An Infosec Researcher & Python Developer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
 </p>
 
 <ul>
