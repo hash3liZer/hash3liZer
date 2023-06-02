@@ -1,5 +1,4 @@
-<h2 align="center"> 👋 Hi, its <a href="//twitter.com/hash3liZer">Shameer</a> </h2> 
-
+<h2 align="center"> 👋 Hi, its <b>Shameer</b> (<a href="//shameerkashif.me">shameerkashif.me</a>) </h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
