@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/hash3liZer%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
 
-<p align="center">
-   An Infosec Researcher & Python Developer who loves to break, build and code and definitly, drink coffee. Ping me up for Projects and Security Stuff!
+<p align="center"> 
+   An DevSecOps Engineer & Infosec Research who loves to write, test, build, push and break the cycle. 
 </p>
 
 <ul>
