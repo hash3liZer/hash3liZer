@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-   An DevSecOps Engineer & Infosec Research who loves to write, test, build, push and break the cycle. 
+   An DevSecOps Engineer & Infosec Researcher who loves to write, test, build, push and break the cycle. 
 </p>
 
 <ul>
