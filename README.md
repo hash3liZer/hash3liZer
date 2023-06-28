@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi, its <b>Shameer</b> (<a href="//shameerkashif.me">shameerkashif.me</a>) </h2> 
+<h2 align="center"> 👋 Hi, its <b>Shameer Kashif</b> (<a href="//shameerkashif.me">shameerkashif.me</a>) </h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -10,15 +10,17 @@
 </p>
 
 <p align="center"> 
-   An DevSecOps Engineer & Infosec Researcher who loves to write, test, build, push and break the cycle. 
+   An Engineer & Infosec Researcher who loves to write, test, build, push and break the loop. 
 </p>
 
 <ul>
-  <li><b>Discord: </b> <a href="#" target="_blank">hash3liZer#5786</a></li>
-  <li><b>HackTheBox: </b> <a href="https://www.hackthebox.eu/profile/313998">hash3liZer</a></li>
-  <li><b>Twitter: </b> <a href="https://twitter.com/hash3liZer" target="_blank">@hash3liZer</a></li>
-  <li><b>Email: </b> <a href="mailto:me@shameerkashif.me" target="_blank">me@shameerkashif.me</a></li>
-  <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/hash3lizer/" target="_blank">https://www.linkedin.com/in/hash3lizer/</a></li>
+  <li><b>🌍 Website: </b <a href="https://shameerkashif.me" target="_blank">https://shameerkashif.me</a></li>
+  <li><b>📜 Blog: </b <a href="https://blog.shameerkashif.me" target="_blank">https://blog.shameerkashif.me</a></li>
+  <li><b>🚀 Discord: </b> <a href="#" target="_blank">hash3liZer#5786</a></li>
+  <li><b>👨🏻‍💻 HackTheBox: </b> <a href="https://www.hackthebox.eu/profile/313998">hash3liZer</a></li>
+  <li><b>💬 Twitter: </b> <a href="https://twitter.com/hash3liZer" target="_blank">@hash3liZer</a></li>
+  <li><b>📩 Email: </b> <a href="mailto:me@shameerkashif.me" target="_blank">me@shameerkashif.me</a></li>
+  <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/hash3lizer/" target="_blank">https://www.linkedin.com/in/hash3lizer/</a></li>
 </ul>
 
 ```javascript
