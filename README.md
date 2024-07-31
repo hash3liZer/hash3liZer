@@ -17,7 +17,7 @@
   <li><b>🌍 Website: </b <a href="https://shameerkashif.me" target="_blank">https://shameerkashif.me</a></li>
   <li><b>📜 Blog: </b <a href="https://blog.shameerkashif.me" target="_blank">https://blog.shameerkashif.me</a></li>
   <li><b>🚀 Discord: </b> <a href="#" target="_blank">hash3liZer#5786</a></li>
-  <li><b>👨🏻‍💻 HackTheBox: </b> <a href="https://www.hackthebox.eu/profile/313998">hash3liZer</a></li>
+  <li><b>👨🏻‍💻 HackTheBox: </b> <a href="https://app.hackthebox.eu/profile/313998">hash3liZer</a></li>
   <li><b>💬 Twitter: </b> <a href="https://twitter.com/hash3liZer" target="_blank">@hash3liZer</a></li>
   <li><b>📩 Email: </b> <a href="mailto:me@shameerkashif.me" target="_blank">me@shameerkashif.me</a></li>
   <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/hash3lizer/" target="_blank">https://www.linkedin.com/in/hash3lizer/</a></li>
