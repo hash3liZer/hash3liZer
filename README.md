@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-   An Engineer & Infosec Researcher who loves to write, test, build, push and break the loop. 
+  In Security . OxFF | cat :flag_pk:
 </p>
 
 <ul>
