@@ -13,6 +13,11 @@
   In Security . OxFF | cat :flag_pk:
 </p>
 
+<p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116956116" width="100" height="100" alt="OSCP" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85885957" width="100" height="100" alt="eCPTTv2" />
+</p>
+
 <ul>
   <li><b>🌍 Website: </b <a href="https://shameerkashif.me" target="_blank">https://shameerkashif.me</a></li>
   <li><b>📜 Blog: </b <a href="https://blog.shameerkashif.me" target="_blank">https://blog.shameerkashif.me</a></li>
