@@ -17,7 +17,10 @@
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116956116" width="100" height="100" alt="OSCP" />
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85885957" width="100" height="100" alt="eCPTTv2" />
   <img src="https://github.com/user-attachments/assets/f26188c2-6b81-445d-ba50-d622ff91d3c3" width="100" height="100" alt="ISC2" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/119904073" width="100" height="100" alt="OSWP" />
 </p>
+
+![8ec251a3-e34a-469d-bf52-40fd19414581](https://github.com/user-attachments/assets/918ab4c3-86d2-4858-9668-6c4295b48a89)
 
 <ul>
   <li><b>🌍 Website: </b <a href="https://shameerkashif.me" target="_blank">https://shameerkashif.me</a></li>
