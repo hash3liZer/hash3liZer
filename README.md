@@ -20,8 +20,6 @@
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/119904073" width="100" height="100" alt="OSWP" />
 </p>
 
-![8ec251a3-e34a-469d-bf52-40fd19414581](https://github.com/user-attachments/assets/918ab4c3-86d2-4858-9668-6c4295b48a89)
-
 <ul>
   <li><b>🌍 Website: </b <a href="https://shameerkashif.me" target="_blank">https://shameerkashif.me</a></li>
   <li><b>📜 Blog: </b <a href="https://blog.shameerkashif.me" target="_blank">https://blog.shameerkashif.me</a></li>
